@@ -17,4 +17,4 @@ Does the course have a logical, smooth progression for students?
 Do your units and lessons give a complete sense of the skills that a student will need to actually work as a developer in the topic?
 
 How can you ensure that the flow of your Readmes and Labs keep students engaged and challenged? For example, with more difficult concepts or units, how can you keep a student’s momentum going without making the labs and information presented too easy? 
-<a href='https://learn.co/lessons/flow-and-progression' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/flow-and-progression' title='Thoughts to Keep in Mind with Lessons'>Thoughts to Keep in Mind with Lessons</a> on Learn.co and start learning to code for free.</p>
